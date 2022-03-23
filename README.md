@@ -1,4 +1,4 @@
-# AIS GitHub Actions PULLREQUEST
+# AIS GitHub Actions PULLREQUES
 
 Este proyecto consta de un servidor REST sencillo para la gestión de items.
 
